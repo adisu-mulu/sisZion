@@ -1,0 +1,4 @@
+<br />
+<b>Warning</b>:  filesize(): stat failed for ../materials/.23068ccna1Final.pdf in <b>C:\xampp\htdocs\sisZion\student\download.php</b> on line <b>14</b><br />
+<br />
+<b>Warning</b>:  readfile(../materials/.23068ccna1Final.pdf): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\sisZion\student\download.php</b> on line <b>15</b><br />
